@@ -1,0 +1,8 @@
+{
+  "name": "MarketPrev",
+  "description": "POC de Mercado de Previsões Web2 com simulação de CLOB e pagamentos JIT via Pix",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
